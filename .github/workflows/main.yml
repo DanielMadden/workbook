@@ -19,7 +19,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           GITHUB_TOKEN: ${{ secrets.DEPLOY_KEY }}
-          REPOSITORY_NAME: ADD_USERNAME_HERE/blog # TODO 
+          REPOSITORY_NAME: danielmadden/blog
           BRANCH: gh-pages 
           FOLDER: src/.vuepress/dist 
           CLEAN: true 

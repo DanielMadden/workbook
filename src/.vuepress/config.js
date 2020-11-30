@@ -3,7 +3,7 @@ const path = require("path");
 const { config } = require("vuepress-theme-hope");
 
 
-const GITHUB_USERNAME = 'REPLACE_ME' // TODO 
+const GITHUB_USERNAME = 'danielmadden'
 
 
 module.exports = config({
@@ -25,7 +25,7 @@ module.exports = config({
   themeConfig: {
     logo: 'https://bcw.blob.core.windows.net/public/img/2900578872732848',
     editLinks: true,
-    repo: `${GITHUB_USERNAME}/student-workbook`,
+    repo: `${GITHUB_USERNAME}/workbook`,
     repoLabel: 'Contribute!',
     docsDir: 'src',
     docsBranch: 'main',

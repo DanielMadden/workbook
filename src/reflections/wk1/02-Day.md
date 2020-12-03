@@ -21,3 +21,10 @@ This can be used to my benefit to affect, for example, a specific \<a> tag with 
 The !important feature completely overrides everything, regardless of specificity tiers. This isn't a safe practice in solving issues, since all issues can be solved with specificity. In fact, it's quite lazy. If, for example, a programmer cannot figure out why the css isn't doing what they want, they may be able to "solve" this problem by placing !important somewhere. But they haven't *really* solved the problem. Then if another developer needds to make some changes, they may not know what the purpose of the !important tag is, and it may interfere with their additions.
 It's a much better practice to simply take the time to figure out what the problem is, then target it specifically.
 
+## Today's CSS Project
+This project was decently fun and made me bring up some old techniques from the past. I was also able to help two of my classmates since I have a strong background in HTML, CSS, and Javascript. I heeded the common issue of "are you *REALLY* helping them?" and refrained from giving direct answers. Instead, I *directed* them towards solutions and goals. It was really interesting to see how the minds of other coders work with less experience. I am glad to have some previous experience and use my gifts to help others. 
+
+Link to the project:
+
+
+

@@ -1,4 +1,3 @@
-<div>
 <h1 style="text-align:center" > Bootstrap </h1>
 
 <div style="text-align: right">Wednesday<br/>

@@ -1,0 +1,50 @@
+<h1 style="text-align:center" > Javascript </h1>
+
+<div style="text-align: right">Monday<br/>12-07-20</div>
+
+<h2>Reflection</h2> 
+
+<h2>Challenges</h2> 
+
+<h2>Prompts</h2> 
+
+### *What is Scope?*
+<br/>
+Scope in javascript refers to the accesibility of variables. There are two scopes: local, and global. A variable declared inside a function is local; only available within that function. A variable declared outside of any function is global; available everywhere. 
+<br/><br/><hr/><br/>
+
+### *What is Hoisting?*
+<br/>
+Hoisting is javascript's default behavior of moving all declarations to the top. Because of  this, we can alter or call a variable "before" it has been declared. Example 1 gives  the same result as Example 2:
+<br/><br/>
+<h3>Example 1</h3>
+
+    x = 5;
+
+    elem = document.getElementById("demo"); 
+    elem.innerHTML = x;                     
+
+    var x;
+
+
+<h3>Example 2</h3>
+
+    var x;
+    x = 5; 
+
+    elem = document.getElementById("demo"); 
+    elem.innerHTML = x;             
+     
+
+*(Examples taken off of w3schools)*
+<br/><br/><hr/><br/>
+
+### *In what cases might you use let vs const vs var?*
+<br/>
+
+I used to use *var* a lot when I coded as a kid, but after reading the documentation I honestly think that using this may not be the best decision anymore. The only case I can think of using this is if I want a variable that I can change anywhere at anytime, which isn't the best practice...
+
+*let* is going to be my main use due to its restrictions, mainly in keeping variables within their function.
+
+*const* can be used if I want a hard-set variable throughout the code.
+<br/><br/><hr/><br/>

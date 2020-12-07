@@ -4,8 +4,19 @@
 
 <h2>Reflection</h2> 
 
-<h2>Challenges</h2> 
+My anxiety during lecture is unbearable. I want to keep moving around. I want to run out of class. I'm not sure what it is. Do I have ADD? ADHD? Not sure. All my life I've refrained from labeling conditions and now I'm finally beginning to notice them. I bought a fidget cube that will arrive Thursday. Hopefully it helps.
 
+Anyways...
+
+Went over Javascript today. Even though I've used it a TON, I actually learned some things I didn't know! Such as accessing and modifying objects and arrays, and which one is typically better to use.
+<br/><br/><br/>
+
+<h2>Challenge</h2> 
+
+Fun and slightly challenging.
+
+https://github.com/DanielMadden/js-tests-basics
+<br/><br/><br/>
 <h2>Prompts</h2> 
 
 ### *What is Scope?*

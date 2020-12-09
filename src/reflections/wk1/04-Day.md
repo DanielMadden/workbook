@@ -1,4 +1,4 @@
-# Figma
+# 4: Figma
 
 <div style="text-align: right">Thursday<br/>12-03-20</div>
 
@@ -9,11 +9,13 @@
 
 ### *"What is the purpose of wire framing?"*
 <br/>
+
 Wire framing helps in expressing the design and flow of an idea or plan. 
 <br/><br/><hr/><br/>
 
 ### *"What are the different levels of detail in wire-frames and why is each one useful?"*
 <br/>
+
 Not sure what this question is asking.
 <br/><br/><hr/><br/>
 

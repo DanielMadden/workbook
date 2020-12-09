@@ -1,4 +1,4 @@
-# Bootstrap
+# 3: Bootstrap
 
 <div style="text-align: right">Wednesday<br/>
 12-02-20</div>
@@ -29,7 +29,6 @@ Note: I am indeed asian and have every right to make jokes about my nationality 
 <br/>
 
 ### *"What is your favorite tip that you think is the most beneficial to improving your design?"*
-<br/>
 Very general and vague question...
 I would say, in general, utilize the web. Utilize libraries such as bootstrap. Automation reduces labor. Reduced labor leads to more time. More time leads to more opportunity. 
 <br/><br/><hr/><br/>

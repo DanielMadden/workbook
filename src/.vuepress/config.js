@@ -49,7 +49,7 @@ module.exports = config({
     ],
     sidebar: {
       '/reflections/': [
-        ...getSideBar('reflections', 'Student Reflections'),
+        // ...getSideBar('reflections', 'Student Reflections'),
         ...getSideBar('reflections/wk1', 'Week One'),
         ...getSideBar('reflections/wk2', 'Week Two'),
         ...getSideBar('reflections/wk3', 'Week Three: Advancing with JS'),

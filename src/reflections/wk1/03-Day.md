@@ -1,4 +1,4 @@
-<h1 style="text-align:center" > Bootstrap </h1>
+# <center>Bootstrap</center>
 
 <div style="text-align: right">Wednesday<br/>
 12-02-20</div>

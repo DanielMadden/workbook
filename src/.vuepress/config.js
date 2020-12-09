@@ -8,7 +8,7 @@ const GITHUB_USERNAME = 'DanielMadden'
 
 module.exports = config({
   base: "/blog/",
-  title: 'Codeworks Student Learning Blog',
+  title: 'Daniel\'s Blog',
   description: "My thoughts notes and reflections while attending Codeworks Immersive FullStack Program",
   head: [
     ['meta', { name: 'theme-color', content: '#3093d9' }],
@@ -50,15 +50,15 @@ module.exports = config({
     sidebar: {
       '/reflections/': [
         ...getSideBar('reflections', 'Student Reflections'),
-        ...getSideBar('reflections/wk1', 'Building Blocks of Web Development'),
-        ...getSideBar('reflections/wk2', 'Intro to Js'),
-        ...getSideBar('reflections/wk3', 'Advancing with JS'),
-        ...getSideBar('reflections/wk4', 'Asynchronous Code'),
-        ...getSideBar('reflections/wk5', 'Servers with Node/Express'),
-        ...getSideBar('reflections/wk6', 'Frontend Frameworks with Vue3'),
-        ...getSideBar('reflections/wk8', 'Working in a Professional Environment'),
-        ...getSideBar('reflections/wk10', 'Foundations of C#'),
-        ...getSideBar('reflections/wk11', 'Dotnet WebApi\'s')
+        ...getSideBar('reflections/wk1', 'Week One: Building Blocks of Web Development'),
+        ...getSideBar('reflections/wk2', 'Week Two: Intro to Js'),
+        ...getSideBar('reflections/wk3', 'Week Three: Advancing with JS'),
+        ...getSideBar('reflections/wk4', 'Week Four: Asynchronous Code'),
+        ...getSideBar('reflections/wk5', 'Week Five: Servers with Node/Express'),
+        ...getSideBar('reflections/wk6', 'Week Six: Frontend Frameworks with Vue3'),
+        ...getSideBar('reflections/wk8', 'Week Eight: Working in a Professional Environment'),
+        ...getSideBar('reflections/wk10', 'Week Ten: Foundations of C#'),
+        ...getSideBar('reflections/wk11', 'Week Eleven: Dotnet WebApi\'s')
       ]
     },
   },

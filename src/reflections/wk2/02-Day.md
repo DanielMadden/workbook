@@ -1,8 +1,12 @@
 <h1 style="text-align:center" >Function, Object, Loop</h1>
 
+# <center>Hi</center>
+
 <div style="text-align: right">Tuesday<br/>12-08-20</div>
 
 <h2>Reflection</h2> 
+
+Had a lot of fun today. 
 
 <br/><br/><br/>
 
@@ -14,6 +18,8 @@ https://danielmadden.github.io/ComplexObject/
 <br/><br/><br/>
 
 <h2>Afternoon Challenge</h2> 
+
+Finished the afternoon challenge extremely early, so I spent my time helping the others and teaching Chris.
 
 <br/><br/><br/>
 

@@ -52,13 +52,16 @@ module.exports = config({
         // ...getSideBar('reflections', 'Student Reflections'),
         ...getSideBar('reflections/wk1', 'Week One'),
         ...getSideBar('reflections/wk2', 'Week Two'),
-        ...getSideBar('reflections/wk3', 'Week Three: Advancing with JS'),
-        ...getSideBar('reflections/wk4', 'Week Four: Asynchronous Code'),
-        ...getSideBar('reflections/wk5', 'Week Five: Servers with Node/Express'),
-        ...getSideBar('reflections/wk6', 'Week Six: Frontend Frameworks with Vue3'),
-        ...getSideBar('reflections/wk8', 'Week Eight: Working in a Professional Environment'),
-        ...getSideBar('reflections/wk10', 'Week Ten: Foundations of C#'),
-        ...getSideBar('reflections/wk11', 'Week Eleven: Dotnet WebApi\'s')
+        ...getSideBar('reflections/wk3', 'Week Three'),
+        ...getSideBar('reflections/wk4', 'Week Four'),
+        ...getSideBar('reflections/wk5', 'Week Five'),
+        ...getSideBar('reflections/wk6', 'Week Six'),
+        ...getSideBar('reflections/wk7', 'Week Seven'),
+        ...getSideBar('reflections/wk8', 'Week Eight'),
+        ...getSideBar('reflections/wk9', 'Week Nine'),
+        ...getSideBar('reflections/wk10', 'Week Ten'),
+        ...getSideBar('reflections/wk11', 'Week Eleven'),
+        ...getSideBar('reflections/wk12', 'Week Twelve')
       ]
     },
   },

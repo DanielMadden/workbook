@@ -1,3 +1,3 @@
-# Introduction to JavaScript
+# ~ Introduction to JavaScript
 
 Title placeholder

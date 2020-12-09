@@ -1,4 +1,4 @@
-# Quiz
+# ~ Quiz 1
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->

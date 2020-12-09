@@ -1,5 +1,6 @@
 <template>
   <section class="home">
+    <meta http-equiv="refresh" content="/reflections/" />
     <header class="text-center mb-5">
       <h2 id="description text-center">Learn to Code. Develop your Future!</h2>
       <img
@@ -43,8 +44,8 @@
 
 <script>
 export default {
-  name: "Welcome"
-}
+  name: "Welcome",
+};
 </script>
 
 <style scoped>

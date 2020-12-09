@@ -11,7 +11,7 @@ module.exports = config({
   title: 'Daniel\'s Blog',
   description: "My thoughts notes and reflections while attending Codeworks Immersive FullStack Program",
   head: [
-    ['meta', { name: 'theme-color', content: '#3093d9' }],
+    ['meta', { name: 'theme-color', content: '#2196f3' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { name: 'application-name', content: `${GITHUB_USERNAME} Learning Blog` }],
@@ -25,21 +25,21 @@ module.exports = config({
   themeConfig: {
     logo: 'https://bcw.blob.core.windows.net/public/img/2900578872732848',
     editLinks: true,
-    repo: `${GITHUB_USERNAME}/workbook`,
-    repoLabel: 'Contribute!',
+    // repo: `${GITHUB_USERNAME}/workbook`,
+    // repoLabel: 'Contribute!',
     docsDir: 'src',
     docsBranch: 'main',
     darkmode: "switch",
-    themeColor: {
-      blue: "#2196f3",
-      red: "#f26d6d",
-      green: "#00ffdc",
-      orange: "#fb9b5f",
-      purple: "#8e44ad"
-    },
+    // themeColor: {
+    //   blue: "#2196f3",
+    //   red: "#f26d6d",
+    //   green: "#00ffdc",
+    //   orange: "#fb9b5f",
+    //   purple: "#8e44ad"
+    // },
     nav: [
       {
-        text: 'Reflections',
+        text: 'Journal',
         link: '/reflections/',
       },
       {

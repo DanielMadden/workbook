@@ -17,7 +17,7 @@ Chris said he's waiting for the day he'll ask me something and I'll be completel
 
 Had some fun messing around with this!
 
-https://danielmadden.github.io/RICEBootStrap/
+[RICE Bootstrap](https://danielmadden.github.io/RICEBootStrap/)
 
 Note: I am indeed asian and have every right to make jokes about my nationality ;)
 

@@ -1,6 +1,4 @@
-<h1 style="text-align:center" >Function, Object, Loop</h1>
-
-# Hi
+# 2: Function, Object, Loop
 
 <div style="text-align: right">Tuesday<br/>12-08-20</div>
 

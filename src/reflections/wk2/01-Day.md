@@ -1,4 +1,4 @@
-# Javascript
+# 1: Javascript
 
 <div style="text-align: right">Monday<br/>12-07-20</div>
 
@@ -21,11 +21,13 @@ https://github.com/DanielMadden/js-tests-basics
 
 ### *What is Scope?*
 <br/>
+
 Scope in javascript refers to the accesibility of variables. There are two scopes: local, and global. A variable declared inside a function is local; only available within that function. A variable declared outside of any function is global; available everywhere. 
 <br/><br/><hr/><br/>
 
 ### *What is Hoisting?*
 <br/>
+
 Hoisting is javascript's default behavior of moving all declarations to the top. Because of  this, we can alter or call a variable "before" it has been declared. Example 1 gives  the same result as Example 2:
 <br/><br/>
 <h3>Example 1</h3>

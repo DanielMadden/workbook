@@ -1,3 +1,3 @@
-# Building Blocks of Web Development
+# Introduction to JavaScript
 
 Title placeholder

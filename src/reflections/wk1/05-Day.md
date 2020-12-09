@@ -1,8 +1,8 @@
-<h1 style="text-align:center" > Week One </h1>
+# Reflection
 
 <div style="text-align: right">Friday<br/>12-04-20</div>
 
-<h2>Reflection</h2> 
+<br/><br/>
 
 I've really enjoyed this course thus far. My class is great. Everyone's chill. My social needs are fulfilled in here.
 

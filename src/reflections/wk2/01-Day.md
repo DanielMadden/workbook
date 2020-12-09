@@ -1,8 +1,8 @@
-<h1 style="text-align:center" > Javascript </h1>
+# Javascript
 
 <div style="text-align: right">Monday<br/>12-07-20</div>
 
-<h2>Reflection</h2> 
+## Reflection 
 
 My anxiety during lecture is unbearable. I want to keep moving around. I want to run out of class. I'm not sure what it is. Do I have ADD? ADHD? Not sure. All my life I've refrained from labeling conditions and now I'm finally beginning to notice them. I bought a fidget cube that will arrive Thursday. Hopefully it helps.
 
@@ -11,13 +11,13 @@ Anyways...
 Went over Javascript today. Even though I've used it a TON, I actually learned some things I didn't know! Such as accessing and modifying objects and arrays, and which one is typically better to use.
 <br/><br/><br/>
 
-<h2>Challenge</h2> 
+## Challenge 
 
 Fun and slightly challenging.
 
 https://github.com/DanielMadden/js-tests-basics
 <br/><br/><br/>
-<h2>Prompts</h2> 
+## Prompts 
 
 ### *What is Scope?*
 <br/>
@@ -30,22 +30,24 @@ Hoisting is javascript's default behavior of moving all declarations to the top.
 <br/><br/>
 <h3>Example 1</h3>
 
-    x = 5;
+```js
+x = 5;
 
-    elem = document.getElementById("demo"); 
-    elem.innerHTML = x;                     
+elem = document.getElementById("demo"); 
+elem.innerHTML = x;                     
 
-    var x;
-
+var x;
+```
 
 <h3>Example 2</h3>
 
-    var x;
-    x = 5; 
+```js
+var x;
+x = 5; 
 
-    elem = document.getElementById("demo"); 
-    elem.innerHTML = x;             
-     
+elem = document.getElementById("demo"); 
+elem.innerHTML = x;             
+```   
 
 *(Examples taken off of w3schools)*
 <br/><br/><hr/><br/>

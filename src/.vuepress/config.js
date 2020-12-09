@@ -50,8 +50,8 @@ module.exports = config({
     sidebar: {
       '/reflections/': [
         ...getSideBar('reflections', 'Student Reflections'),
-        ...getSideBar('reflections/wk1', 'Week One: Building Blocks of Web Development'),
-        ...getSideBar('reflections/wk2', 'Week Two: Intro to Js'),
+        ...getSideBar('reflections/wk1', 'Week One'),
+        ...getSideBar('reflections/wk2', 'Week Two'),
         ...getSideBar('reflections/wk3', 'Week Three: Advancing with JS'),
         ...getSideBar('reflections/wk4', 'Week Four: Asynchronous Code'),
         ...getSideBar('reflections/wk5', 'Week Five: Servers with Node/Express'),

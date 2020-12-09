@@ -1,11 +1,11 @@
-<h1 style="text-align:center" > Figma </h1>
+# Figma
 
 <div style="text-align: right">Thursday<br/>12-03-20</div>
 
 
 
 
-<h2>Prompts</h2>
+## Prompts
 
 ### *"What is the purpose of wire framing?"*
 <br/>
@@ -27,7 +27,7 @@ If a person can fully understand his concept, have it fully planned out in their
 However, if ANY of these criteria cannot be met, wire-frames offer many benefits--especially in group projects. They allow us to express our thoughts and ideas. This is extremely important when working with a partner or group because it CLEARLY defines the desired plan and design.
 <br/><br/><hr/><br/>
 
-<h2>Reflection</h2> 
+## Reflection 
 
 I LOVE Tim's teaching style. He's a vibe. Super chill dude.
 
@@ -43,6 +43,6 @@ Anyways. Just ranting. I probably shouldn't be treating this like a journal. But
 
 <br/>
 
-<h2>Challenge</h2>
+## Challenge
 
 Of all the people I got paired up with, it was him. I should have made him code. Then he would have been choking left and right. Whatever.

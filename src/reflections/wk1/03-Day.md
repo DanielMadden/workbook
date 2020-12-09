@@ -1,9 +1,9 @@
-# <center>Bootstrap</center>
+# Bootstrap
 
 <div style="text-align: right">Wednesday<br/>
 12-02-20</div>
 
-<h2 style="text-align:left" >Reflection</h2> 
+## Reflection 
 
 I really enjoyed today's lesson due to it being something I've never used before. It was very easy to grasp; the only annoyance was memorizing all the little class names used for the designing. But I caught on quickly.
 
@@ -13,7 +13,7 @@ Chris said he's waiting for the day he'll ask me something and I'll be completel
 
 <br/>
 
-<h2 style="text-align:left" >Challenge</h2>
+## Challenge
 
 Had some fun messing around with this!
 

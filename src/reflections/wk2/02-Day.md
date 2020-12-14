@@ -73,4 +73,5 @@ function Hello(a, b, c) {
 
 ### *What are the higher order functions? Can you provide an example?*
 <br/>
-Bruh my brain be fried asf
+
+Higher order functions are functions that operate on *other* functions. They can take them as arguments, refer them as parameters, or use them to obtain a new value.

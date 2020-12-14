@@ -16,14 +16,14 @@ module.exports = config({
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { name: 'application-name', content: `${GITHUB_USERNAME} Learning Blog` }],
     ['meta', { name: 'ROBOTS', content: 'FOLLOW' }],
-    ['meta', { name: 'og:image', content: 'https://i.pinimg.com/originals/8f/c6/ac/8fc6ac1ac412940c74a49b1722fa91b2.png' }],
+    ['meta', { name: 'og:image', content: '' }],
     ['meta', { name: 'og:type', content: 'article' }],
     ['meta', { name: 'og:url', content: `https://${GITHUB_USERNAME}.github.io/blog/reflections` }],
     ['meta', { name: 'og:title', content: 'Learn to Code. Develop Your Future' }],
     ['meta', { name: 'og:locale', content: 'en_US' }]
   ],
   themeConfig: {
-    logo: '',
+    logo: 'REEEEE',
     editLinks: true,
     // repo: `${GITHUB_USERNAME}/workbook`,
     // repoLabel: 'Contribute!',

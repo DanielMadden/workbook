@@ -1,3 +1,3 @@
-# Advancing with JS
+# ~ Advancing with JS
 
 Title placeholder

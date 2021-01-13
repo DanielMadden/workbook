@@ -1,7 +1,3 @@
-# Servers with Node/Express
+# ~ Servers with Node/Express
 
-Week 5 Projects
-
-Monday: https://github.com/DanielMadden/BCW_BurgersAPI
-
-Tuesday: https://github.com/DanielMadden/BCW_GregslistAPI
+Title placeholder

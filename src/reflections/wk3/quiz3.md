@@ -1,4 +1,4 @@
-# Application Architecture, MVC Design Pattern
+# ~ Quiz 3
 
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->

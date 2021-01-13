@@ -1,4 +1,4 @@
-# Queries
+# 1: Queries
 
 ### *What are some signs and causes of callback hell?*
 <br/>

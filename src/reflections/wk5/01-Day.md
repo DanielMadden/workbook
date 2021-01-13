@@ -6,7 +6,7 @@
 <br/>
 
 Query strings are what we use to assign values to parameters when we're requesting data from a server! (i.e. supposed I insert a query string "?count=10" in the hopes of receiving 10 of some form of data)
-<br/><br/><hr/><br/>
+<br/><hr/><br/>
 
 ### *What is the format of a query parameter? How does it start? How do you distinguish between one parameter and the next?*
 <br/>
@@ -36,11 +36,11 @@ It will be interpreted like so: `{shoe: {color: 'white'}}`
 <br/>
 
 Whenever the client wants specific results, query parameters will *always* be helpful. I've forced myself to take in an `id` query parameters rather than an `:id` on the link in order to practice parsing queries.
-<br/><br/><hr/><br/>
+<br/><hr/><br/>
 
 Afternoon Project: https://github.com/DanielMadden/BCW_BurgersAPI
 
-<br/><hr/>
+<hr/>
 
 ## Boise Codeworks: Burgers API
 
@@ -91,3 +91,10 @@ let missesObj = {
 And that's it! Challenging myself was my favorite part of the project. I love programming.
 
 <br/>
+
+
+| Project:  | Burgers API                     |
+|-----------|-----------------------------------|
+| Course:   | Boise Codeworks Fullstack Program |
+| Date:     | January 11, 2021                  |
+| Position: | W5_D1                     |

@@ -33,6 +33,21 @@ And `B = "Movies"`
 
 Clearly, we're going to have more movies in a genre rather than the genres that each movie holds. In this case, it is best to use `One-Way Embedding.`
 
-<br/><br/>
+<br/>
 
 In some cases, if both `A` and `B` are similar to one another in their maximum relationships, `Two-Way Embedding` *could* be used. But honestly, `One-Way Embedding` seems like the safest practice since it prepares for potential overflow of relationships in one of the categories.
+<br/><br/><hr/><br/>
+Afternoon Project: https://github.com/DanielMadden/BCW_GregslistAPI
+<br/><br/><hr/><br/>
+
+# Boise Codeworks: Gregslist API
+
+Our project today included creating an API to handle data transfers between the client and the MongoDB database. I finished it quickly and decided to write some front-end code as well to display the data in an acceptable format.
+
+<br/>
+
+| Project:  | Gregslist API                     |
+|-----------|-----------------------------------|
+| Course:   | Boise Codeworks Fullstack Program |
+| Date:     | January 12, 2021                  |
+| Position: | Week 5, Day 2                     |

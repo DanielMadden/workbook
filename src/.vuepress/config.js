@@ -23,7 +23,7 @@ module.exports = config({
     ['meta', { name: 'og:locale', content: 'en_US' }]
   ],
   themeConfig: {
-    // logo: 'REEEEE',
+    logo: 'https://avatars0.githubusercontent.com/u/70981440?s=460&u=bfbdfa6959630986106ba57ea70d4a596a1cbfe9&v=4',
     editLinks: true,
     // repo: `${GITHUB_USERNAME}/workbook`,
     // repoLabel: 'Contribute!',
@@ -53,8 +53,8 @@ module.exports = config({
         ...getSideBar('reflections/wk1', 'Week One'),
         ...getSideBar('reflections/wk2', 'Week Two'),
         ...getSideBar('reflections/wk3', 'Week Three'),
-        ...getSideBar('reflections/wk4', 'Wk4: Asynchronous Code'),
-        ...getSideBar('reflections/wk5', 'Wk5: Servers with Node/Express'),
+        ...getSideBar('reflections/wk4', 'Week Four'),
+        ...getSideBar('reflections/wk5', 'Week 5'),
         ...getSideBar('reflections/wk6', 'Week Six'),
         ...getSideBar('reflections/wk7', 'Week Seven'),
         ...getSideBar('reflections/wk8', 'Week Eight'),

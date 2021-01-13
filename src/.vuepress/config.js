@@ -23,7 +23,7 @@ module.exports = config({
     ['meta', { name: 'og:locale', content: 'en_US' }]
   ],
   themeConfig: {
-    logo: 'REEEEE',
+    // logo: 'REEEEE',
     editLinks: true,
     // repo: `${GITHUB_USERNAME}/workbook`,
     // repoLabel: 'Contribute!',

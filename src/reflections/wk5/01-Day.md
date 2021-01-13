@@ -35,7 +35,7 @@ It will be interpreted like so: `{shoe: {color: 'white'}}`
 ### *When do you think query parameters would be helpful when writing your server?*
 <br/>
 
-Whenever the client wants specific results, query parameters will *always* be helpful. I've forced myself to take in an `id` query parameters rather than an `:id` on the link in order to practice parsing queries.
+Whenever the client wants specific results, query parameters will *always* be helpful. I've forced myself to take in an `id` query parameter rather than an `:id` on the link in order to practice parsing queries.
 <br/><hr/><br/>
 
 Afternoon Project: https://github.com/DanielMadden/BCW_BurgersAPI

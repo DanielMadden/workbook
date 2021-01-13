@@ -42,7 +42,7 @@ Afternoon Project: https://github.com/DanielMadden/BCW_GregslistAPI
 
 # Boise Codeworks: Gregslist API
 
-Our project today included creating an API to handle data transfers between the client and the MongoDB database. I finished it quickly and decided to write some front-end code as well to display the data in an acceptable format.
+Our project today included creating an API to handle data transfers between the client and the MongoDB database. I had some spare time so I decided to write some front-end code as well to display the data in an acceptable format.
 
 <br/>
 

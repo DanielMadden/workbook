@@ -54,7 +54,7 @@ module.exports = config({
         ...getSideBar('reflections/wk2', 'Week Two'),
         ...getSideBar('reflections/wk3', 'Week Three'),
         ...getSideBar('reflections/wk4', 'Week Four'),
-        ...getSideBar('reflections/wk5', 'Week 5'),
+        ...getSideBar('reflections/wk5', 'Week Five'),
         ...getSideBar('reflections/wk6', 'Week Six'),
         ...getSideBar('reflections/wk7', 'Week Seven'),
         ...getSideBar('reflections/wk8', 'Week Eight'),

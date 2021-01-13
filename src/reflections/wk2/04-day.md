@@ -1,4 +1,4 @@
-# 3: Timeouts, Intervals, and Local Storage
+# 4: Timeouts, Intervals, and Local Storage
 
 <div style="text-align: right">Wednesday<br/>12-09-20</div>
 

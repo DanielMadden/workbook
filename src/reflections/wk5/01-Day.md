@@ -40,7 +40,8 @@ Whenever the client wants specific results, query parameters will *always* be he
 
 Afternoon Project: https://github.com/DanielMadden/BCW_BurgersAPI
 
-<hr/>
+
+<br/><hr/>
 
 ## Boise Codeworks: Burgers API
 

@@ -1,3 +1,3 @@
 # Frontend Frameworks with Vue3
 
-Title placeholder
+What was my main takeaway this week?

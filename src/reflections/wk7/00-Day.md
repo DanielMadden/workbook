@@ -1,3 +1,3 @@
-# No Title
+# ~ Partner Checkpoint
 
-Title placeholder
+Partner Checkpoint: https://github.com/ethanvachon/partner-checkpoint

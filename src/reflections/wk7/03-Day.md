@@ -1,4 +1,4 @@
-# 1: UX Design
+# 3: UX Design
 
 ## Prompts
 

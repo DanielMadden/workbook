@@ -1,4 +1,4 @@
-# Deploying Applications
+# ~ Quiz 8
 
 **1.** What is the package.json file used for?
 <!-- enter you answer in the space below -->

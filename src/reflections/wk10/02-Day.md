@@ -1,4 +1,4 @@
-# 2: C# List
+# 2: C# Lists
 
 ## Prompts
 

@@ -14,7 +14,7 @@ Node JS, Vue JS, MVCS Pattern, RESTful API's, Observer Pattern, Mongo DB, Auth0,
 <br/>
 
 ```
-Up to this point we've been in agreement of what everything should look like... 
+Up to this point we've been in agreement of what everything should look like.
 ```
 <br/><hr/><br/>
 

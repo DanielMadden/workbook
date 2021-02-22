@@ -1,3 +1,3 @@
-#  Working in a Professional Environment
+# ~ Working in a Professional Environment
 
 Title placeholder
